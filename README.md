@@ -10,5 +10,5 @@ A simple python game made with pygame.
 - 🕐 **Self-paced:** Complete on your own time  
 - 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
 - 🎯 **45,000+ job openings** in the market
--  
+-  Experiece exciting and interactive games!
 No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
