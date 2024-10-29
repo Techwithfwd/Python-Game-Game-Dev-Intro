@@ -1,1 +1,1 @@
-# Python-Game-Game-Dev-Intro
+# Python-Pygame-Game-Dev-Intro
